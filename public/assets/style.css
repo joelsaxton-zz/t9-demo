@@ -46,7 +46,7 @@ html {
 #results {
     position: fixed;
     bottom: 20px;
-    left: 20px;
+    right: 20px;
     font-size:20px;
     font-family: Courier;
     color:white;
